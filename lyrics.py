@@ -21,3 +21,15 @@ Askin' questions cause' they got all the answers.
     together, or incorporating newlines
 * write THREE DIFFERENT versions of this program in this file 
 """
+
+
+print('On a tropical island, Underneath a molten lava moon. Hangin with the hula dancers, Askin questions cause they got all the answers.')
+s = 'On a tropical island, Underneath a molten lava moon. Hangin with the hula dancers, Askin questions cause they got all the answers.'
+print(s)
+a = 'on a typical island,'
+b = 'underneath a molten lava moon.'
+c = 'hangin with the hula dancers'
+d = 'askin questions cause they got all the answers'
+print(a + b + c + d)
+
+
