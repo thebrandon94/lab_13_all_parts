@@ -12,3 +12,9 @@ mad_libs_lyrics.py
 
 * print the new lyrics with variables to the console
 """
+
+adjective1 = 'tiny'
+adjective2 = 'magical'
+noun1  = 'ukulele'
+noun2 = 'tigers'
+print(' on a ' + adjective2 + ' island, underneath a ' + noun1 + ' lava moon. hanging with ' + noun2 + ', Askin questions cause they got all ' + adjective1 + '  answers.  ')
