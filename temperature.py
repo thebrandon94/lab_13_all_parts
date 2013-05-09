@@ -19,4 +19,5 @@ Please enter a temperature in celsius
 """
 
 s= raw_input('give me a number')
+int = 9 / 5 * s + 32
 
