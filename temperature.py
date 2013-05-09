@@ -17,3 +17,6 @@ Please enter a temperature in celsius
 > 37
 37.0 degrees celsius is 98.6 degrees fahrenheit
 """
+
+s= raw_input('give me a number')
+
